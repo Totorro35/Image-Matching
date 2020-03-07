@@ -1,4 +1,4 @@
-# VO Indexing
+# Features Extraction and Image Matching
 
 ## Article
 
